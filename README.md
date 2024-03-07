@@ -10,6 +10,7 @@ The Weather Radar is a web application that allows users to view current weather
 - React https://react.dev/
 - Material-UI https://mui.com/
 - OpenWeatherMap API https://openweathermap.org/
+- Jest https://jestjs.io/
 
 ## Installation and usage guide
 
